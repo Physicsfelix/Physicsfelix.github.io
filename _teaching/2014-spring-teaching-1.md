@@ -18,3 +18,5 @@ Heading 2
 
 Heading 3
 ======
+
+空间部分 $X'' + \lambda X = 0$ 配合边界条件 $X\(0\)=X\(L\)=0$
