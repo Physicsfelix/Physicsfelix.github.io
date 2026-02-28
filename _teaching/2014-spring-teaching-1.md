@@ -8,7 +8,7 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+空间部分 $X'' + \lambda X = 0$ 配合边界条件 $X\(0\)=X\(L\)=0$
 
 Heading 1
 ======
